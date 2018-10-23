@@ -1,0 +1,14 @@
+{
+    "name": "youwe/saml-login",
+    "description": "A bundle that allows you to login in Pimcore with SAML.",
+    "type": "pimcore-bundle",
+    "require": {
+        "onelogin/php-saml": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Joris Ros",
+            "email": "j.ros@youwe.nl"
+        }
+    ]
+}
